@@ -4,4 +4,4 @@
   tasks:
   - name: Print a simple message
     ansible.builtin.debug:
-    msg: "Hello, World! pringting first message"
+      msg: "Hello, World! pringting first message"
