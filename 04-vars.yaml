@@ -1,6 +1,6 @@
 - name: play leavel variables
   hosts: local
-  connections: local
+  connection: local
   vars:
     cource: "devops with aws"
     duration: "140 hours"
