@@ -1,0 +1,40 @@
+  - name: "sai teja sagar"
+    dob: "18-12-1996"
+    mobile no: 9666898599
+    Addresses:
+    - House number: 1/339
+      street: "gandhi nagar"
+      city: "kurnool"
+      type: "permanent"
+
+    - House number: 1/340
+      street: "gandhi nagar"
+      city: "kurnool"
+      type: "permanent"
+
+  - name: "pavani"
+    dob: "18-12-1996"
+    mobile no: 9652057348
+    Addresses:
+    - House number: 1/339
+      street: "gandhi nagar"
+      city: "kurnool"
+      type: "permanent"
+
+    - House number: 1/340
+      street: "gandhi nagar"
+      city: "kurnool"
+      type: "permanent"
+
+
+
+
+
+
+
+
+
+
+
+
+

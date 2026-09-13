@@ -1,0 +1,41 @@
+{
+    "Student1":[
+        {
+            "Firstname": "sai teja sagar",
+            "Dob": "18/12/1996",
+            "Addresses": [
+             {
+                "Type": "Permanent",
+                "Hno": 1/339,
+                "City": "Kurnool"
+             },
+             {
+                "Type": "Current",
+                "Hno": 1/339,
+                "City": "Kurnool"
+             }
+            ],
+             "Skills": ["java", "devops", "python"]   
+        },
+             
+    ],
+    "Student2":[
+        {
+            "Firstname": "sai teja sagar",
+            "Dob": "18/12/1996",
+            "Addresses": [
+             {
+                "Type": "Permanent",
+                "Hno": 1/339,
+                "City": "Kurnool"
+             },
+             {
+                "Type": "Current",
+                "Hno": 1/339,
+                "City": "Kurnool"
+             }
+            ],
+             "Skills": ["java", "devops", "python"]         
+        }
+    ]
+}       
