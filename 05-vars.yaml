@@ -1,0 +1,13 @@
+- name: play leavel variables
+  hosts: local
+  connection: local
+  vars:
+    cource: "devops with aws"
+    duration: "140 hours"
+    trainer: "pavani"
+  tasks:
+  - name: print variables
+    vars: 
+      cource: "ansible"
+    ansible.builtin.debug:
+      msg: "cource is {{ cource }}, duration is {{ duration}}, traineris {{ trainer}}"
